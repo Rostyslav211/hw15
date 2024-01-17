@@ -1,7 +1,24 @@
 .holder {
+  display: flex;
   border: 1px solid black;
 }
 
 .item:nth-child(1) {
-  background-color: ;
+  background-color: orangered;
+}
+
+.item:nth-child(2) {
+  background-color: yellow;
+}
+
+.item:nth-child(3) {
+  background-color: purple;
+}
+
+.item:nth-child(4) {
+  background-color: cornflowerblue;
+}
+
+.item:nth-child(5) {
+  background-color: green;
 }
